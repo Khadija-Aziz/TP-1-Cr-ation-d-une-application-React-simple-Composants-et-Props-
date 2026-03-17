@@ -10,7 +10,7 @@
 <img width="832" height="1017" alt="image" src="https://github.com/user-attachments/assets/f0ae692d-a711-4bad-b09b-79b4b581acbc" />
 <img width="831" height="473" alt="image" src="https://github.com/user-attachments/assets/ab6861c5-2187-4dae-bde6-86a2e6bf551f" />
 
-## démarrage du serveur local à l’adresse suivante :http://localhost:3000
+## Démarrage du serveur local à l’adresse suivante :http://localhost:3000
 
 <img width="1080" height="970" alt="Capture d’écran 2026-03-16 231519" src="https://github.com/user-attachments/assets/69e608ad-c1d6-4d68-8c42-8326b80ad017" />
 
