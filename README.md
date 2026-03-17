@@ -14,6 +14,11 @@
 
 <img width="1080" height="970" alt="Capture d’écran 2026-03-16 231519" src="https://github.com/user-attachments/assets/69e608ad-c1d6-4d68-8c42-8326b80ad017" />
 
+# Installation de PropTypes:
+
+<img width="877" height="627" alt="image" src="https://github.com/user-attachments/assets/b0a4b152-982c-4736-929b-b2e2d55385e3" />
+
+
 # La structure du tp-react:
 
 <img width="827" height="893" alt="image" src="https://github.com/user-attachments/assets/a491bc00-ef81-4290-a999-4586d3702500" />
